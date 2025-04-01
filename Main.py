@@ -1,4 +1,4 @@
-from src.Ejer10 import rondas
+from src import rondas
 
 rounds = [
 {
